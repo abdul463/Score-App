@@ -1,0 +1,7 @@
+.home{
+    height: 100vh;
+    display: flex;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+}

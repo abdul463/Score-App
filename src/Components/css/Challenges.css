@@ -1,0 +1,13 @@
+.chal-main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:30px;
+}
+.chl-card-cnt{
+    display: flex;
+   gap:30px;
+}

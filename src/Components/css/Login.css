@@ -1,0 +1,14 @@
+.login-main{
+    width: 100vw;
+    height: auto;
+    display: flex;
+}
+.login{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:2px solid white;
+}

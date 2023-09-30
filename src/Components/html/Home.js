@@ -3,7 +3,7 @@ function Home(){
     return(
         <>
         <div className="home">
-            <h1>Welcome to Prowess Software Services Pvt. Ltd.</h1>
+            <h1>Welcome to Score App</h1>
         </div>
         </>
     )

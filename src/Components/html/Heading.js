@@ -3,7 +3,7 @@ function Heading(){
     return(
         <div className="pgrm-main">
             <div className="pgrm-cnt">
-                <h1 className="heading">Programming</h1>
+                <h1 className="heading">Upcoming matches</h1>
             </div>
         </div>
     );
